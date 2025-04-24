@@ -12,3 +12,16 @@ VowelFilter-Project is a Python application that filters words based on a minimu
 1. Clone the repository:
    ```bash
    git clone https://github.com/Busradeveci/VowelFilter-Project.git
+   ```
+
+2. Run the `main.py` file:
+   ```bash
+   python main.py
+   ```
+
+3. The program will prompt the user to enter the file name to be analyzed and the minimum number of vowels. Provide the required information.
+
+The results will be displayed on the screen.
+
+## Contributing
+To contribute, fork the repository and submit a pull request with your changes.
